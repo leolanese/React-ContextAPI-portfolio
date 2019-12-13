@@ -2,17 +2,18 @@ import React, { Component } from 'react'
 import Contact from './Contact';
 
 class Contacts extends Component {
+  // state for this component
   state = {
       contacts: [
         {
           id: 1,
-          name: 'Client Id',
+          name: 'Accuity',
           email: 'ClientId@email.com',
           location: 'ClientId'
         },
         {
           id: 2,
-          name: 'Site Collection TestUrl',
+          name: 'Mimecast',
           email: 'ClientId@email.com',
           location: 'SiteCollectionTestUrl',
         },
@@ -23,21 +24,23 @@ class Contacts extends Component {
           location: 'TenantDomainUrl',
         }
       ]
-    }
+    };
 
   render() {
+    // destructuring: pull out date from the state
     const { contacts } = this.state;
 
     return (
+        // looping thougth the state
       <div>
-        {contacts.map(data => (
-
-          <Contact
-            key={data.id}
-            contact={data}
-          />
-
-        ))}
+        {
+          contacts.map(data => (
+            <Contact
+              key={data.id}
+              contact={data}
+            />
+          ))
+        }
       </div>
     )
   }
