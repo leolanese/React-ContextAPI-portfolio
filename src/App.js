@@ -11,11 +11,13 @@ import Header from './components/Header';
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
-import { faCheckSquare, faCoffee } from '@fortawesome/free-solid-svg-icons'
+import { fas } from '@fortawesome/free-solid-svg-icons'
+import { far } from '@fortawesome/free-regular-svg-icons';
 
 // App is like the meeting place for all Components
 function App() {
-  library.add(fab, faCheckSquare, faCoffee);
+  // adding import to fontAwesome library
+  library.add(fab, fas, far);
 
   return (
     <div className="App">
