@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "name": "Accuity",
+    "email": "ClientId@email.com",
+    "location": "ClientId"
+  },
+  {
+    "id": 2,
+    "name": "Mimecast",
+    "email": "ClientId@email.com",
+    "location": "SiteCollectionTestUrl"
+  },
+  {
+    "id": 3,
+    "name": "Tenant DomainUrl",
+    "email": "ClientId@email.com",
+    "location": "TenantDomainUrl"
+  }
+]
