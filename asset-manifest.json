@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/leolanese/reactjs-playground/static/css/main.37fd5e80.chunk.css",
+    "main.js": "/leolanese/reactjs-playground/static/js/main.bb6f30a7.chunk.js",
+    "main.js.map": "/leolanese/reactjs-playground/static/js/main.bb6f30a7.chunk.js.map",
+    "runtime-main.js": "/leolanese/reactjs-playground/static/js/runtime-main.99014b6e.js",
+    "runtime-main.js.map": "/leolanese/reactjs-playground/static/js/runtime-main.99014b6e.js.map",
+    "static/css/2.aee84c9b.chunk.css": "/leolanese/reactjs-playground/static/css/2.aee84c9b.chunk.css",
+    "static/js/2.c5303eee.chunk.js": "/leolanese/reactjs-playground/static/js/2.c5303eee.chunk.js",
+    "static/js/2.c5303eee.chunk.js.map": "/leolanese/reactjs-playground/static/js/2.c5303eee.chunk.js.map",
+    "index.html": "/leolanese/reactjs-playground/index.html",
+    "precache-manifest.c3bbf3651fec392d6df00e0806ce66db.js": "/leolanese/reactjs-playground/precache-manifest.c3bbf3651fec392d6df00e0806ce66db.js",
+    "service-worker.js": "/leolanese/reactjs-playground/service-worker.js",
+    "static/css/2.aee84c9b.chunk.css.map": "/leolanese/reactjs-playground/static/css/2.aee84c9b.chunk.css.map",
+    "static/css/main.37fd5e80.chunk.css.map": "/leolanese/reactjs-playground/static/css/main.37fd5e80.chunk.css.map",
+    "static/media/logo.svg": "/leolanese/reactjs-playground/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99014b6e.js",
+    "static/css/2.aee84c9b.chunk.css",
+    "static/js/2.c5303eee.chunk.js",
+    "static/css/main.37fd5e80.chunk.css",
+    "static/js/main.bb6f30a7.chunk.js"
+  ]
+}
