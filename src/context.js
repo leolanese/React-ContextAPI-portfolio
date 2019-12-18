@@ -20,6 +20,7 @@ const reducer = (state, action) => {
 
 // global state: we have a provider and we have a Consumer
 export class Provider extends Component {
+    // state is populated from request
     state = {
         contacts: [
             // {
@@ -44,20 +45,17 @@ export class Provider extends Component {
         dispatch: action => this.setState (state => reducer (state, action))
     };
 
-    componentDidMount () {
+    async componentDidMount () {
         // JSONPlaceholder mock
         // API calls: http.get() request make the front-end part and mocking the back end
         // fetch('https://jsonplaceholder.typicode.com/users/')
         //   .then(response => response.json())
         //   .then(data => console.log(data))
         //   .then(data => this.setState({}))
-        axios.get('https://jsonplaceholder.typicode.com/users/')
-          .then(res => this.setState({
-              contacts: res.data
-          }))
+        //  Using async axios request to fetch data
+        const response = await axios.get('https://jsonplaceholder.typicode.com/users/');
+        this.setState({contacts: response.data})
     }
-
-
 
     componentDidUpdate (prevProps, prevState, snapshot) {
         console.log('componentDidUpdate: rendering again')

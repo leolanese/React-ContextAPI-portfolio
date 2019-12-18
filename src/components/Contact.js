@@ -33,14 +33,14 @@ class Contact extends Component {
     console.log(); // element
   };
 
-  onDeleteClick = (id, dispatch) => {
+  onDeleteClick = async (id, dispatch) => {
     // JSONPlaceholder mock
     // API calls: http.delete() request make the front-end part and mocking the back end
     console.log('Child Contact Component > onDeleteClick');
     // adding props
     // this.props.deleteClickHandler();
-    axios.delete(`https://jsonplaceholder.typicode.com/users/{$id}`)
-      .then(res => dispatch({type: 'DELETE_CONTACT', payload: id}))
+    await axios.delete(`https://jsonplaceholder.typicode.com/users/{$id}`);
+    dispatch({type: 'DELETE_CONTACT', payload: id});
   };
 
   render() {
