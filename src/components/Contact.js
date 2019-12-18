@@ -8,15 +8,20 @@ import './contact.css'
 import * as json from "./../resources/json.json";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faPen, faCheck, faSortDown, faTrashAlt } from '@fortawesome/free-solid-svg-icons'
-import { faReact, faAngular, faJs } from '@fortawesome/free-brands-svg-icons'
-import {Consumer} from "../context";
+import { faPen, faCheck, faSortDown, faTrashAlt } from '@fortawesome/free-solid-svg-icons';
+import { faReact, faAngular, faJs } from '@fortawesome/free-brands-svg-icons';
+import { Consumer} from './../context';
+import axios from 'axios';
 
 // class component
 class Contact extends Component {
   state = {
     showContactInfo: false
   };
+
+  componentDidMount () {
+    console.log('component did mount');
+  }
 
   // custom new method()
   onShowClick = (id, e) => {
@@ -29,14 +34,16 @@ class Contact extends Component {
   };
 
   onDeleteClick = (id, dispatch) => {
+    // JSONPlaceholder mock
+    // API calls: http.delete() request make the front-end part and mocking the back end
     console.log('Child Contact Component > onDeleteClick');
     // adding props
     // this.props.deleteClickHandler();
-    dispatch({type: 'DELETE_CONTACT', payload: id})
+    axios.delete(`https://jsonplaceholder.typicode.com/users/{$id}`)
+      .then(res => dispatch({type: 'DELETE_CONTACT', payload: id}))
   };
 
   render() {
-
     console.log(`Reading JSON file: ${json[0].name}`);
     // destructuring
     const { contact } = this.props;
@@ -70,7 +77,7 @@ class Contact extends Component {
               { showContactInfo ? (
                 <ul className="list-group">
                   <li className="list-group-item">{contact.email}</li>
-                  <li className="list-group-item">{contact.location}</li>
+                  <li className="list-group-item">{contact.username}</li>
                 </ul>
               ) : null}
             </div>

@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 import Contacts from "./Contacts";
 import About from "./About";
@@ -20,8 +20,6 @@ const Header = (props) => {
             </li>
           </ul>
         </nav>
-
-        <hr />
 
         <Route exact path="/contacts" >
           <Contacts />
