@@ -1,42 +1,5 @@
 [
   {
-    "id": 0,
-    "name": "Leo Lanese",
-    "nationality": [
-      "Britain",
-      "Italy",
-      "Argentina"
-    ],
-    "keytechnologies": [
-      "AngularJS",
-      "Angular6/7+",
-      "ReactJS",
-      "IP/OOP/Functional Programming/Reactive Functional Programming",
-      "JS/ES6+/TS",
-      "Callback/Promise/Observable$",
-      "RxJS",
-      "Redux/@ngrx/store",
-      "Responsive Web Design",
-      "Mobile First",
-      "CSS/SASS",
-      "Storybook",
-      "Angular Material 2/CDK",
-      "HTML5",
-      "FLEX/GRID",
-      "GUI/UX",
-      "Certified ScrumMaster (CSM)",
-      "Grunt/Gulp/WebPack2",
-      "JS Design Patterns",
-      "Karma/Jasmine/Jest",
-      "GIT",
-      "NoSQL",
-      "CI/CD: Jenkins. GitLab",
-      "Rest API",
-      "Angular CLI",
-      "Java(JSP)"
-    ]
-  },
-  {
     "id": 1,
     "company": "Contractor",
     "role": "UI Software Engineer",

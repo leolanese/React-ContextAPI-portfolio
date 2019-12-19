@@ -53,7 +53,7 @@ export class Provider extends Component {
         //   .then(data => console.log(data))
         //   .then(data => this.setState({}))
         //  Using async axios request to fetch data
-        const response = await axios.get('https://raw.githubusercontent.com/leolanese/reactjs-playground/master/src/resources/json.json');
+        const response = await axios.get('https://raw.githubusercontent.com/leolanese/reactjs-playground/master/src/resources/experience.json');
         this.setState({contacts: response.data})
     }
 

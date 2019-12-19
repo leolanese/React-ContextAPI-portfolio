@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import './contact.css'
 
 // loading json
-import * as json from "./../resources/json.json";
+import * as json from "../resources/experience.json";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPen, faCheck, faSortDown, faTrashAlt } from '@fortawesome/free-solid-svg-icons';
@@ -65,7 +65,7 @@ class Contact extends Component {
               <FontAwesomeIcon icon={faAngular} color="#b13138" />
               <FontAwesomeIcon icon={faJs} color="#f7df1e" />
               <h3>
-                {contact.name}{' '}
+                {contact.id}{' '}
                 <FontAwesomeIcon
                   icon={faSortDown}
                   color="#000"
