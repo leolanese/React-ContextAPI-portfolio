@@ -1,5 +1,5 @@
-{
-  "id": 1,
+[{
+  "id": 0,
   "name": "Leo Lanese",
   "nationality": [
     "Britain",
@@ -34,4 +34,14 @@
     "Angular CLI",
     "Java(JSP)"
   ]
-}
+},
+  {
+    "id": 1,
+    "company": "Contractor",
+    "role": "UI Software Engineer",
+    "date": " 12/2010 - Present",
+    "country": "UK",
+    "info": "http://www.leolanese.com",
+    "description": "I have been contracting for several clients mainly using AngularJS, Angular, @ngrx, TypeScript, React, JavaScript, Karma/Jasmine, Jest working on mobile device web UIs (Progressive Web Apps) and multiplatform Responsive Web Design on backend using PHP and JSP with data-bases: PouchDB and MongoDB. These have been the main roles I have fulfilled during this time, also combined with smaller freelance projects."
+  }
+]
