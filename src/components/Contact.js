@@ -19,21 +19,24 @@ class Contact extends Component {
     showContactInfo: false
   };
 
-  componentDidMount () {
-    console.log('component did mount');
-  }
+  componentDidMount() {
+    console.log('Contact > componentDidMount');
+  };
+
+  stopPropagation = (e) => {
+    e.stopPropagation();
+    e.nativeEvent.stopImmediatePropagation();
+  };
 
   // custom new method()
   onShowClick = (id, e) => {
     // state immutable: use setState()
     this.setState({showContactInfo: !this.state.showContactInfo});
-    console.log(id);
-    console.log(id);
-    console.log(e);
-    console.log(); // element
+    console.log('onShowClick: ', 'id:' , id, 'event:', e);
+    e.stopPropagation();
   };
 
-  onDeleteClick = async (id, dispatch) => {
+  onDeleteClick = async (id, dispatch, e) => {
     // JSONPlaceholder mock
     // API calls: http.delete() request make the front-end part and mocking the back end
     console.log('Child Contact Component > onDeleteClick');
@@ -41,10 +44,11 @@ class Contact extends Component {
     // this.props.deleteClickHandler();
     await axios.delete(`https://jsonplaceholder.typicode.com/users/{$id}`);
     dispatch({type: 'DELETE_CONTACT', payload: id});
+    e.stopPropagation();
   };
 
   render() {
-    console.log(`Reading JSON file: ${json[0].name}`);
+    // console.log(`Reading JSON file: ${json[0].name}`);
     // destructuring
     const { contact } = this.props;
     const { showContactInfo  } = this.state;
@@ -71,7 +75,7 @@ class Contact extends Component {
                 <FontAwesomeIcon
                   icon={faTrashAlt}
                   className="delete-icon"
-                  onClick={this.onDeleteClick.bind(this, contact.id, dispatch) }
+                  onClick={this.onDeleteClick.bind(this, contact.id, dispatch)}
                 />
               </h3>
               { showContactInfo ? (
