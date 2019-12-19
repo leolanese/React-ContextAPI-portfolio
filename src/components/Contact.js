@@ -65,7 +65,7 @@ class Contact extends Component {
               <FontAwesomeIcon icon={faAngular} color="#b13138" />
               <FontAwesomeIcon icon={faJs} color="#f7df1e" />
               <h3>
-                {contact.id}{' '}
+                {contact.company}{' '}
                 <FontAwesomeIcon
                   icon={faSortDown}
                   color="#000"
@@ -80,8 +80,9 @@ class Contact extends Component {
               </h3>
               { showContactInfo ? (
                 <ul className="list-group">
-                  <li className="list-group-item">{contact.email}</li>
-                  <li className="list-group-item">{contact.username}</li>
+                  <li className="list-group-item">{contact.role}</li>
+                  <li className="list-group-item">{contact.date}{contact.country}</li>
+                  <li className="list-group-item">{contact.description}</li>
                 </ul>
               ) : null}
             </div>

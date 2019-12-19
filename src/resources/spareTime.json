@@ -1,0 +1,74 @@
+[
+  {
+  "role": "Developer Writer",
+  "presentation": "https://dev.to/leolanese",
+  "institution": "dev.to",
+  "date": 2019
+  },
+  {
+  "role": "Influencer ReactJS Conference",
+  "presentation": "",
+  "institution": "ReactJS Advance",
+  "date": 2019
+  },
+  {
+  "role": "Workshop Speaker",
+  "presentation": "Practical Functional Programming",
+  "institution": "Accuity",
+  "date": 2019
+  },
+  {
+  "role": "Workshop Speaker",
+  "presentation": "Practical functional programming",
+  "institution": "Accuity",
+  "date": 2019
+  },
+  {
+  "role": "Functional (Programming) mindset",
+  "presentation": "Becoming functional",
+  "institution": "Mimecast",
+  "date": 2018
+  },
+  {
+  "role": "Workshop Speaker",
+  "presentation": "The road to ECMAScript 6: New solutions for old JS problems",
+  "institution": "MET",
+  "date": 2015
+  },
+  {
+  "role": "Official reviewer Packt Publishing: Deploying AngularJS",
+  "presentation": "Packt Deploying AngularJS",
+  "institution": "Packt Publishing",
+  "date": 2014
+  },
+  {
+  "role": "Workshop Speaker",
+  "presentation": "The new multi-screen world",
+  "institution": "Williams Interactive",
+  "date": 2013
+  },
+  {
+  "role": "Workshop Speaker",
+  "presentation": "Building a Responsive Future-friendly Web",
+  "institution": "Williams Interactive",
+  "date": 2013
+  },
+  {
+  "role": "Conference Speaker",
+  "presentation": "Responsive Web Design: The Good Parts",
+  "institution": "Spain JS conference",
+  "date": 2013
+  },
+  {
+  "role": "Conference Speaker",
+  "presentation": "RWD, Mobile First and Progressive enhancement in action",
+  "institution": "ScotlandJS conference",
+  "date": 2012
+  },
+  {
+  "role": "Conference Speaker",
+  "presentation": "RWD, Mobile First and Progressive enhancement",
+  "institution": "JSConf Argentina conference",
+  "date": 2012
+  }
+]
