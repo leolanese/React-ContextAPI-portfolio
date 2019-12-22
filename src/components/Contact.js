@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import './contact.css'
 
 // loading json
-import * as json from "../resources/experience.json";
+// import * as json from "../resources/experience.json";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPen, faCheck, faSortDown, faTrashAlt } from '@fortawesome/free-solid-svg-icons';
@@ -42,6 +42,7 @@ class Contact extends Component {
     console.log('Child Contact Component > onDeleteClick');
     // adding props
     // this.props.deleteClickHandler();
+    // fake .delete(): just request a .delete() success fake.
     await axios.delete(`https://jsonplaceholder.typicode.com/users/{$id}`);
     dispatch({type: 'DELETE_CONTACT', payload: id});
     e.stopPropagation();

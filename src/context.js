@@ -1,5 +1,5 @@
 // store
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 import axios from 'axios';
 
@@ -20,7 +20,7 @@ const reducer = (state, action) => {
 
 // global state: we have a provider and we have a Consumer
 export class Provider extends Component {
-    // state is populated from request
+    // create the state, but is populated later from request
     state = {
         contacts: [
             // {

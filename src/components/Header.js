@@ -33,7 +33,7 @@ const Header = (props) => {
 };
 
 Header.defaultProps = {
-  title: 'Leo Lanese - Portfolio'
+  title: 'Leo Lanese - Portfolio (React + ContextAPI)'
 };
 
 Header.propTypes = {
