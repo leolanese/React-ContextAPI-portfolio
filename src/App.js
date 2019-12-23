@@ -16,6 +16,9 @@ import { fab } from '@fortawesome/free-brands-svg-icons'
 import { fas } from '@fortawesome/free-solid-svg-icons'
 import { far } from '@fortawesome/free-regular-svg-icons';
 
+import { HashRouter as Router, Route } from "react-router-dom";
+import About from "./components/About";
+
 // App is like the meeting place for all Components
 function App() {
   // Add all icons to the library so you can use it in your page
@@ -23,21 +26,33 @@ function App() {
 
   return (
     <Provider>
-      <div className="App">
+      <Router>
+        <div className="App">
 
-        <Header
-          title="Portfolio - Leo Lanese"
-        />
+          <Header
+            title="Portfolio - Leo Lanese"
+          />
 
-        <div className="container">
-          {/*<Contacts*/}
-          {/*  name="Leo Lanese"*/}
-          {/*  email="developer@leolanese.com"*/}
-          {/*  location="London"*/}
-          {/*/>*/}
-        </div>
+          <div className="container">
+            {/*<Contacts*/}
+            {/*  name="Leo Lanese"*/}
+            {/*  email="developer@leolanese.com"*/}
+            {/*  location="London"*/}
+            {/*/>*/}
+
+            <Route exact path="/contacts" >
+              <Contacts />
+            </Route>
+
+            <Route exact path="/about">
+              <About />
+            </Route>
+
+          </div>
 
       </div>
+     </Router>
+
     </Provider>
   );
 }

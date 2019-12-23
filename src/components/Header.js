@@ -9,26 +9,18 @@ const Header = (props) => {
   const { title } = props;
 
   return (
-    <Router>
-        <nav className="navbar navbar-expand-sm bg-light justify-content-center mb-3 py-0">
-          <ul className="navbar-nav">
-            <li className="nav-item">
-              <Link className="nav-link" to="/contacts">Contacts</Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link"  to="/about">About</Link>
-            </li>
-          </ul>
-        </nav>
-
-        <Route exact path="/contacts" >
-          <Contacts />
-        </Route>
-
-        <Route exact path="/about">
-          <About />
-        </Route>
-    </Router>
+    <nav className="navbar navbar-expand-sm bg-secondary justify-content-center mb-3 py-0 ">
+      <div className="container">
+        <ul className="navbar-nav">
+          <li className="nav-item">
+            <Link className="nav-link text-white" to="/contacts">Portfolio</Link>
+          </li>
+          <li className="nav-item">
+            <Link className="nav-link text-white"  to="/about">About</Link>
+          </li>
+        </ul>
+      </div>
+    </nav>
   )
 };
 

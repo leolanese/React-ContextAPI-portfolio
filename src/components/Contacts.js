@@ -30,9 +30,13 @@ class Contacts extends Component {
       <Consumer>
         {value => {
           const { contacts } = value; // State. We only take contacts
+
           return (
             // looping thougth the state
             <React.Fragment>
+              <h1 className="display-4 mb-2">
+                <span className="text-info">Portfolio</span> Leo Lanese
+              </h1>
               {
                 contacts.map(data => (
                   // Reusable Contant Component
@@ -41,8 +45,7 @@ class Contacts extends Component {
                     contact={data}
                     // deleteClickHandler={this.deleteContact.bind(this, data.id) }
                   />
-                ))
-              }
+                ))}
             </React.Fragment>
           )
         }}

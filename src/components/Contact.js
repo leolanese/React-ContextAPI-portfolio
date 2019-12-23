@@ -10,6 +10,7 @@ import './contact.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPen, faCheck, faSortDown, faTrashAlt } from '@fortawesome/free-solid-svg-icons';
 import { faReact, faAngular, faJs } from '@fortawesome/free-brands-svg-icons';
+
 import { Consumer} from './../context';
 import axios from 'axios';
 
@@ -58,27 +59,40 @@ class Contact extends Component {
       <Consumer>
 
         {value => {
-          const {dispatch} = value;
+          const { dispatch } = value;
 
           return (
             <div className="card card-body mb-3" >
-              <FontAwesomeIcon icon={faReact} color="#5ed4f4" />
-              <FontAwesomeIcon icon={faAngular} color="#b13138" />
-              <FontAwesomeIcon icon={faJs} color="#f7df1e" />
-              <h3>
+              <span>
+                <FontAwesomeIcon icon={faReact} color="#5ed4f4" />
+                <FontAwesomeIcon icon={faAngular} color="#b13138" />
+                <FontAwesomeIcon icon={faJs} color="#f7df1e" />
                 {contact.company}{' '}
+
                 <FontAwesomeIcon
                   icon={faSortDown}
-                  color="#000"
                   onClick={this.onShowClick.bind(this, contact.id) }
-                  style={{cursor: 'pointer'}}
+                  style={{
+                    cursor: 'pointer',
+                    color: 'black',
+                    marginRight: '1rem',
+                    fontSize: '2em',
+                    top: '-5px',
+                    position: 'relative'
+                  }}
                 />
                 <FontAwesomeIcon
                   icon={faTrashAlt}
                   className="delete-icon"
                   onClick={this.onDeleteClick.bind(this, contact.id, dispatch)}
+                  style={{
+                    cursor: 'pointer',
+                    float: 'right',
+                    color: '#922626',
+                    marginRight: '1rem'
+                  }}
                 />
-              </h3>
+
               { showContactInfo ? (
                 <ul className="list-group">
                   <li className="list-group-item">{contact.role}</li>
@@ -86,10 +100,10 @@ class Contact extends Component {
                   <li className="list-group-item">{contact.description}</li>
                 </ul>
               ) : null}
+              </span>
             </div>
           )
         }}
-
       </Consumer>
     )
   }

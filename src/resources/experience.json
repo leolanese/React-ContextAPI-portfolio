@@ -12,7 +12,7 @@
   "id": 2,
   "company": "Mimecast",
   "role": "UI Software Engineer",
-  "date": " 04/2017 - 05/2019",
+  "date": "04/2017 - 05/2019",
   "country": "UK",
   "info": "https://community.mimecast.com/s/article/The-Administration-Console-User-Interface-1818047779",
   "description": "During the time I produced a robust combination of reusable Components that combine into a Client UI super reactive category SPA Web Application. These individual apps provide a cyber resilience for an email offering cloud security, archiving and continuity services. My task was to take care of the migration and development of new components used by the rest of the developers, automate tasks and create the structure that other developers will follow as well as assisting and mentoring less senior engineers of the team."
@@ -21,7 +21,7 @@
     "id": 3,
     "company": "MET",
     "role": "UI Software Engineer",
-    "date": " 09/2014 - 03/2017",
+    "date": "09/2014 - 03/2017",
     "country": "UK",
     "info": "https://www.london.gov.uk/sites/default/files/q4_business_plan_progress_report_final.pdf",
     "description": "During my time at the MET I produced a responsive component-oriented SPA PWA Web App, this solution generates the UI and performs a communication channel between Police Command Centre and Patrol Units. Working with PouchDB handle by the tablets in sync with the command centre MongoDB database. Mentoring and providing guidance and mentoring to less senior engineers"
@@ -82,7 +82,7 @@
     "id": 10,
     "company": "Nokia OVI maps",
     "role": "Front-end Developer",
-    "date": "07/2009-01/2010",
+    "date": "07/2009 - 01/2010",
     "country": "Germany",
     "info": "https://www.here.com/",
     "description": "Similar to google maps, I was involved in the Nokia development of the multiplatform map web solution."
@@ -91,7 +91,7 @@
     "id": 11,
     "company": "Flirtomatic",
     "role": "Front-end Developer",
-    "date": "08/2008-03/2009",
+    "date": "08/2008 - 03/2009",
     "country": "UK",
     "info": "https://en.wikipedia.org/wiki/Flirtomatic",
     "description": "Successfully produced a Mobile/Desktop Web developer role implementing GUI/UX for Mobile/Desktop for low/high-end devices."
@@ -100,7 +100,7 @@
     "id": 12,
     "company": "Interactive Data",
     "role": "Web Developer",
-    "date": "11/2006-04/2008",
+    "date": "11/2006 - 04/2008",
     "country": "Spain",
     "info": "https://www.theice.com/market-data",
     "description": "Developing a desktop and hybrid iOS Web APP and websites using real-time push data for several clients."
