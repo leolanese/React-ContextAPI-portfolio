@@ -1,4 +1,4 @@
-# reactjs-ContextAPI-portfolio
+# Reactjs ContextAPI portfolio
 
 ## Available Scripts
 
