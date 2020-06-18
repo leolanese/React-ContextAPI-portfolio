@@ -1,8 +1,8 @@
 [
    {
     "id": 1,
-    "angular": true,
-    "react": true,  
+    "angular": 1,
+    "react": 1,  
     "company": "Wunderman Thompson",
     "role": "UI Software Engineer",
     "date": " 01/2020 - Present",
