@@ -12,6 +12,7 @@
   },
   {
     "id": 2,
+    "angular": 1,
     "company": "Accuity Banking",
     "role": "UI Software Engineer",
     "date": " 06/2019 - Present",
@@ -21,6 +22,7 @@
   },
   {
   "id": 3,
+  "angular": 1,
   "company": "Mimecast",
   "role": "UI Software Engineer",
   "date": "04/2017 - 05/2019",
@@ -30,6 +32,7 @@
   },
   {
     "id": 4,
+    "angular": 1,
     "company": "MET",
     "role": "UI Software Engineer",
     "date": "09/2014 - 03/2017",
@@ -39,6 +42,7 @@
   },
   {
     "id": 5,
+    "react": 1,
     "company": "Thomas Cook",
     "role": "Front-end Developer",
     "date": "04/2014 - 08/2014",
@@ -47,6 +51,7 @@
   },
   {
     "id": 6,
+    "react": 1,
     "company": "WMS",
     "role": "Front-end Developer",
     "date": "07/2013 - 01/2014",
