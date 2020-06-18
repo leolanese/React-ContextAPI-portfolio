@@ -1,6 +1,7 @@
 [
    {
     "id": 1,
+    "techstack": ["angular", "react"],
     "company": "Wunderman Thompson",
     "role": "UI Software Engineer",
     "date": " 01/2020 - Present",
