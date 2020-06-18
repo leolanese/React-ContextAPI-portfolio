@@ -1,4 +1,14 @@
 [
+   {
+    "id": 0,
+    "company": "Wunderman Thompson",
+    "role": "UI Software Engineer",
+    "date": " 01/2020 - Present",
+    "country": "UK",
+    "info": "https://www.wundermanthompson.com/",
+    "description": "DWorking on different projects maintaining and migrating to new retail cloud solutions using Angular and ReactJS. Using cloud AWS, JAVA and SAP hybris commerce cloud with CMS Smart-Edit, improving SEO rank and optimising markup to boost performance standards constraints across multi-device experience solutions.
+"
+  },
   {
     "id": 1,
     "company": "Accuity Banking",
