@@ -1,11 +1,21 @@
 [
-   {
+  {
+    "id": 0,
+    "angular": 1,
+    "company": "VASHI Diamond e-commerce",
+    "role": "UI Software Engineer",
+    "date": " 09/2020 - Present ",
+    "country": "UK",
+    "info": "https://www.vashi.com/",
+    "description": "Working on Angular dockerized application, building then deploying this singular artefact to all available stages using Node and Nginx as a webserver"
+  },
+  {
     "id": 1,
     "angular": 1,
-    "react": 1,  
-    "company": "Wunderman Thompson",
+    "react": 1,
+    "company": "Wunderman Thompson e-commerce",
     "role": "UI Software Engineer",
-    "date": " 01/2020 - Present",
+    "date": " 01/2020 - 08/2020 ",
     "country": "UK",
     "info": "https://www.wundermanthompson.com/",
     "description": "Working across different teams and projects at the same time maintaining and migrating to new AWS cloud solutions.Improving SEO rank and optimising markup to boost performance standards constraints across multi-device experience solutions."
@@ -13,17 +23,17 @@
   {
     "id": 2,
     "angular": 1,
-    "company": "Accuity Banking",
+    "company": "Accuity Financial",
     "role": "UI Software Engineer",
     "date": " 06/2019 - 12/2019",
     "country": "UK",
     "info": "https://accuity.com/brand-homepage/bankers-almanac-for-risk-and-compliance/",
-    "description": "I produced a predictive and future proof component-oriented WebApp with the highest attention to detail and striving for clean, simple, elegant and reusable code."
+    "description": "Development of a predictive solution that provides the Bank Almanac WebApp using Angular, @ngrx and RxJS Patterns with Reactive Programming to build a composable data stream."
   },
   {
   "id": 3,
   "angular": 1,
-  "company": "Mimecast",
+  "company": "Mimecast Cloud Security",
   "role": "UI Software Engineer",
   "date": "04/2017 - 05/2019",
   "country": "UK",
