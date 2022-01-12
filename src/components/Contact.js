@@ -1,12 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-
-// loading  CSS Modules
 import './contact.css'
-
-// loading json
-// import * as json from "../resources/experience.json";
-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPen, faCheck, faSortDown, faTrashAlt } from '@fortawesome/free-solid-svg-icons';
 import { faReact, faAngular, faJs } from '@fortawesome/free-brands-svg-icons';
@@ -38,20 +32,12 @@ class Contact extends Component {
   };
 
   onDeleteClick = async (id, dispatch, e) => {
-    // JSONPlaceholder mock
-    // API calls: http.delete() request make the front-end part and mocking the back end
-    console.log('Child Contact Component > onDeleteClick');
-    // adding props
-    // this.props.deleteClickHandler();
-    // fake .delete(): just request a .delete() success fake.
     await axios.delete(`https://jsonplaceholder.typicode.com/users/{$id}`);
     dispatch({type: 'DELETE_CONTACT', payload: id});
     e.stopPropagation();
   };
 
   render() {
-    // console.log(`Reading JSON file: ${json[0].name}`);
-    // destructuring
     const { contact } = this.props;
     const { showContactInfo  } = this.state;
 
@@ -117,7 +103,6 @@ Contact.defaultProps = {
 
 Contact.propTypes = {
   contact: PropTypes.object.isRequired,
-  // deleteClickHandler: PropTypes.func.isRequired
 };
 
 export default Contact
