@@ -10,7 +10,17 @@
     "description": "Working on Angular dockerized application, building then deploying this singular artefact to all available stages using Node and Nginx as a webserver"
   },
   {
-    "id": 1,
+    "id": 10,
+    "angular": 1,
+    "company": "VASHI Diamonds e-commerce",
+    "role": "UI Software Engineer",
+    "date": " 09/2020 - Present ",
+    "country": "UK",
+    "info": "https://www.vashi.com/",
+    "description": "Working on Angular dockerized application, building then deploying this singular artefact to all available stages using Node and Nginx as a webserver"
+  },
+  {
+    "id": 20,
     "angular": 1,
     "react": 1,
     "company": "Wunderman Thompson e-commerce",
@@ -21,7 +31,7 @@
     "description": "Working across different teams and projects at the same time maintaining and migrating to new AWS cloud solutions.Improving SEO rank and optimising markup to boost performance standards constraints across multi-device experience solutions."
   },
   {
-    "id": 2,
+    "id": 30,
     "angular": 1,
     "company": "Accuity Financial",
     "role": "UI Software Engineer",
@@ -31,7 +41,7 @@
     "description": "Development of a predictive solution that provides the Bank Almanac WebApp using Angular, @ngrx and RxJS Patterns with Reactive Programming to build a composable data stream."
   },
   {
-  "id": 3,
+  "id": 40,
   "angular": 1,
   "company": "Mimecast Cloud Security",
   "role": "UI Software Engineer",
@@ -41,7 +51,7 @@
   "description": "I produced a robust combination of reusable Components that combine into a Client UI super reactive category SPA Web Application. These individual apps provide a cyber resilience for an email offering cloud security, archiving and continuity services. My task was to take care of the migration and development of new components used by the rest of the developers, automate tasks and create the structure that other developers will follow as well as assisting and mentoring the team."
   },
   {
-    "id": 4,
+    "id": 50,
     "angular": 1,
     "company": "MET",
     "role": "UI Software Engineer",
@@ -51,7 +61,7 @@
     "description": "During my time at the MET I produced a responsive component-oriented SPA PWA Web App, this solution generates the UI and performs a communication channel between Police Command Centre and Patrol Units. Working with PouchDB handle by the tablets in sync with the command centre MongoDB database. Mentoring and providing guidance and mentoring the team."
   },
   {
-    "id": 5,
+    "id": 60,
     "react": 1,
     "company": "Thomas Cook",
     "role": "Front-end Developer",
@@ -60,7 +70,7 @@
     "description": "Working to produce elegant solutions and creating new campaigns"
   },
   {
-    "id": 6,
+    "id": 70,
     "react": 1,
     "company": "WMS",
     "role": "Front-end Developer",
@@ -69,7 +79,7 @@
     "description": "Working to build a Responsive Web solution as a developer and Mobile Strategist role part of a multidisciplinary agile team developing multi-device web UX. Starting with the low fidelity paper sketchpad and ending up with a simple and great website. Using developer UX techniques to optimise accessibility for mobile and tablet"
   },
   {
-    "id": 7,
+    "id": 80,
     "company": "ClearPeople",
     "role": "Lead Front-end Developer",
     "date": "02/2013 - 06/2013",
@@ -78,7 +88,7 @@
     "description": "Successfully created a Responsive Web. Working day to day in a responsive and cross-platform problems. Liaising with the designers and mentoring about the latest trends, multi-device layouts, RWD, content-first strategy priorities"
   },
   {
-    "id": 8,
+    "id": 90,
     "company": "NowTV",
     "role": "Front-end Developer",
     "date": "02/2012 - 08/2012",
@@ -87,7 +97,7 @@
     "description": "Successfully produced a Responsive Web developer solution working on an eXtreme programming set of values, principles, and practices for rapidly developing high-quality software that provides the highest value in the fastest possible way."
   },
   {
-    "id": 9,
+    "id": 100,
     "company": "BBC",
     "role": "Front-end Developer",
     "date": "01/2011 - 01/2012",
@@ -96,7 +106,7 @@
     "description": "We successfully developed a Responsive Web Application, to generate the new Responsive website. Getting involved in real user testing and guerrilla usability testing and development process improving Mobile usability, UX and device optimisation."
   },
   {
-    "id": 10,
+    "id": 110,
     "company": "Rumbo",
     "role": "Lead Front-end Developer",
     "date": "02/2010 - 08/2010",
@@ -105,7 +115,7 @@
     "description": "I produced a new GUI and interactive search, improving the usability for commercial purposes."
   },
   {
-    "id": 11,
+    "id": 120,
     "company": "Nokia OVI maps",
     "role": "Front-end Developer",
     "date": "07/2009 - 01/2010",
@@ -114,7 +124,7 @@
     "description": "Similar to google maps, I worked in the Nokia development of the multiplatform map web solution."
   },
   {
-    "id": 12,
+    "id": 130,
     "company": "Flirtomatic",
     "role": "Front-end Developer",
     "date": "08/2008 - 03/2009",
@@ -123,7 +133,7 @@
     "description": "Successfully produced a Mobile/Desktop Web developer role implementing GUI/UX for Mobile/Desktop for low/high-end devices."
   },
   {
-    "id": 13,
+    "id": 140,
     "company": "Interactive Data",
     "role": "Web Developer",
     "date": "11/2006 - 04/2008",
