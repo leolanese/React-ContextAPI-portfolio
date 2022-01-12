@@ -2,19 +2,19 @@
   {
     "id": 0,
     "angular": 1,
-    "company": "VASHI Diamonds e-commerce",
+    "company": "Luno Financial Services",
     "role": "UI Software Engineer",
-    "date": " 09/2020 - Present ",
+    "date": " 09/2021 - Present ",
     "country": "UK",
     "info": "https://www.vashi.com/",
-    "description": "Working on Angular dockerized application, building then deploying this singular artefact to all available stages using Node and Nginx as a webserver"
+    "description": "Produced a Micro-Frontends Angular2+ financial cryptowallet solution to make it simple to trade cryptocurrency, following a set of policies, procedures, and technologies to prevent financial crime from Anti-Money Laundering and Counter-Terrorist Financing"
   },
   {
     "id": 10,
     "angular": 1,
     "company": "VASHI Diamonds e-commerce",
     "role": "UI Software Engineer",
-    "date": " 09/2020 - Present ",
+    "date": " 09/2020 - 09/2021 ",
     "country": "UK",
     "info": "https://www.vashi.com/",
     "description": "Working on Angular dockerized application, building then deploying this singular artefact to all available stages using Node and Nginx as a webserver"
@@ -23,17 +23,17 @@
     "id": 20,
     "angular": 1,
     "react": 1,
-    "company": "Wunderman Thompson e-commerce",
+    "company": "New Look Fashion Retailer e-commerce",
     "role": "UI Software Engineer",
     "date": " 01/2020 - 08/2020 ",
     "country": "UK",
     "info": "https://www.wundermanthompson.com/",
-    "description": "Working across different teams and projects at the same time maintaining and migrating to new AWS cloud solutions.Improving SEO rank and optimising markup to boost performance standards constraints across multi-device experience solutions."
+    "description": "Worked on a few Angular2+ and ReactJS SPA applications for different projects, at the same time with Hybris eCommerce SaaS solutions using AWS (ECS) platform to provide immutable docker containers on virtual cluster services creating several containerized environments"
   },
   {
     "id": 30,
     "angular": 1,
-    "company": "Accuity Financial",
+    "company": "Accuity Financial Services",
     "role": "UI Software Engineer",
     "date": " 06/2019 - 12/2019",
     "country": "UK",
@@ -41,19 +41,19 @@
     "description": "Development of a predictive solution that provides the Bank Almanac WebApp using Angular, @ngrx and RxJS Patterns with Reactive Programming to build a composable data stream."
   },
   {
-  "id": 40,
-  "angular": 1,
-  "company": "Mimecast Cloud Security",
-  "role": "UI Software Engineer",
-  "date": "04/2017 - 05/2019",
-  "country": "UK",
-  "info": "https://community.mimecast.com/s/article/The-Administration-Console-User-Interface-1818047779",
-  "description": "I produced a robust combination of reusable Components that combine into a Client UI super reactive category SPA Web Application. These individual apps provide a cyber resilience for an email offering cloud security, archiving and continuity services. My task was to take care of the migration and development of new components used by the rest of the developers, automate tasks and create the structure that other developers will follow as well as assisting and mentoring the team."
+    "id": 40,
+    "angular": 1,
+    "company": "Mimecast Cloud Cybersecurity",
+    "role": "UI Software Engineer",
+    "date": "04/2017 - 05/2019",
+    "country": "UK",
+    "info": "https://community.mimecast.com/s/article/The-Administration-Console-User-Interface-1818047779",
+    "description": "I produced a robust combination of reusable Components that combine into a Client UI super reactive category SPA Web Application. These individual apps provide a cyber resilience for an email offering cloud security, archiving and continuity services. My task was to take care of the migration and development of new components used by the rest of the developers, automate tasks and create the structure that other developers will follow as well as assisting and mentoring the team."
   },
   {
     "id": 50,
     "angular": 1,
-    "company": "MET",
+    "company": "Metropolitan Police",
     "role": "UI Software Engineer",
     "date": "09/2014 - 03/2017",
     "country": "UK",
@@ -67,7 +67,7 @@
     "role": "Front-end Developer",
     "date": "04/2014 - 08/2014",
     "country": "UK",
-    "description": "Working to produce elegant solutions and creating new campaigns"
+    "description": "Working to produce elegant solutions and creating new campaigns. Collaborated with a cross-functional agile team from low fidelity paper sketchpad and ended up with a great composable website"
   },
   {
     "id": 70,
