@@ -7,19 +7,17 @@
     "Argentina"
   ],
   "keytechnologies": [
-    "AngularJS",
-    "Angular6/7+",
+    "Angular2+",
     "ReactJS",
+    "AngularJS",
+    "TypeScript",
+        "RxJS",
     "IP/OOP/Functional Programming/Reactive Functional Programming",
-    "JS/ES6+/TS",
-    "Callback/Promise/Observable$",
-    "RxJS",
     "Redux/@ngrx/store",
     "Responsive Web Design",
     "Mobile First",
     "CSS/SASS",
     "Storybook",
-    "Angular Material 2/CDK",
     "HTML5",
     "FLEX/GRID",
     "GUI/UX",
@@ -31,8 +29,6 @@
     "NoSQL",
     "CI/CD: Jenkins. GitLab",
     "Rest API",
-    "Angular CLI",
-    "Java(JSP)"
   ]
 },
   {
@@ -42,6 +38,6 @@
     "date": " 12/2010 - Present",
     "country": "UK",
     "info": "http://www.leolanese.com",
-    "description": "I have been contracting for several clients mainly using AngularJS, Angular, @ngrx, TypeScript, React, JavaScript, Karma/Jasmine, Jest working on mobile device web UIs (Progressive Web Apps) and multiplatform Responsive Web Design on backend using PHP and JSP with data-bases: PouchDB and MongoDB. These have been the main roles I have fulfilled during this time, also combined with smaller freelance projects."
+    "description": "I have been contracting for several clients mainly using Angular, ReactJS, AngularJS, @ngrx, TypeScript, React, JavaScript, Karma/Jasmine, Jest working on mobile device web UIs (Progressive Web Apps) and multiplatform Responsive Web Design on backend using PHP and JSP with data-bases: PouchDB and MongoDB. These have been the main roles I have fulfilled during this time, also combined with smaller freelance projects."
   }
 ]
