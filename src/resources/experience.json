@@ -1,5 +1,16 @@
 [
-
+  {
+    "id": 0,
+    "id": 2,
+    "angular": 1,
+    "react": 1,
+    "company": "ADS Financial Services",
+    "role": "UI Software Engineer",
+    "date": " 11/2022 - Present ",
+    "country": "UK (Remote)",
+    "info": "https://www.adss.com/",
+    "description": "Produced key upgrades to the Middle East and North Africa's foreign exchange trading platform, led the migration for improved reliability, enhanced a Front-Office trading platform to boost trading efficiency in CFD, Forex, and cryptocurrency markets, and efficiently managed development teams for swift project delivery and enhanced team efficiency."
+  },
   {
     "id": 5,
     "angular": 1,
