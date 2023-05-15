@@ -1,15 +1,5 @@
 [
-  {
-    "id": 2,
-    "angular": 1,
-    "react": 1,
-    "company": "ADS Financial Services",
-    "role": "UI Software Engineer",
-    "date": " 11/2022 - Present ",
-    "country": "UK (Remote)",
-    "info": "https://www.adss.com/",
-    "description": ""
-  },
+
   {
     "id": 5,
     "angular": 1,
