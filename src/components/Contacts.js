@@ -4,28 +4,7 @@ import Contact from './Contact';
 import { Consumer } from './../context'
 
 class Contacts extends Component {
-  // local component state
-  // state = {
-  //
-  // };
-
-  // deleteContact = (id) => {
-  //   // now we have access to the parent and access to the State in the single component
-  //   console.log('Parent Contants Component > deleteContact');
-  //
-  //   const { contacts } = this.state;
-  //   const newContacts = contacts.filter(
-  //       contact => contact.id !== id
-  //   );
-  //   this.setState({
-  //     contacts: newContacts
-  //   });
-  //
-  // };
-
   render() {
-    // destructuring: pull out date from the state
-    // const { contacts } = this.state;
     return (
       <Consumer>
         {value => {
