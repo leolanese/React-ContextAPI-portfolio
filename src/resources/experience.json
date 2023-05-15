@@ -1,5 +1,4 @@
-// React-ContextAPI-portfolio/blob/master/src/resources/experience.json
-[
+[ // React-ContextAPI-portfolio/blob/master/src/resources/experience.json
   {
     "id": 2,
     "angular": 1,
