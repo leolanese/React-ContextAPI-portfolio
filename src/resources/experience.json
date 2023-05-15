@@ -74,16 +74,14 @@
   },
   {
     "id": 60,
-    "react": 1,
     "company": "Thomas Cook",
     "role": "Front-end Developer",
     "date": "04/2014 - 08/2014",
-    "country": "UK",
+    "country": "UK (Hybrid)",
     "description": "Working to produce elegant solutions and creating new campaigns. Collaborated with a cross-functional agile team from low fidelity paper sketchpad and ended up with a great composable website"
   },
   {
     "id": 70,
-    "react": 1,
     "company": "WMS",
     "role": "Front-end Developer",
     "date": "07/2013 - 01/2014",
