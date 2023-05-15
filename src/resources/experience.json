@@ -11,7 +11,7 @@
     "description": "Produced key upgrades to the Middle East and North Africas foreign exchange trading platform, led the migration for improved reliability, enhanced a Front-Office trading platform to boost trading efficiency in CFD, Forex, and cryptocurrency markets, and efficiently managed development teams for swift project delivery and enhanced team efficiency."
   },
   {
-    "id": 9,
+    "id": 10,
     "angular": 1,
     "company": "Luno Financial Services",
     "role": "UI Software Engineer",
@@ -21,7 +21,7 @@
     "description": "Produced a Micro-Frontends financial cryptowallet solution to make it simple to trade cryptocurrency, following a set of policies, procedures, and technologies to prevent financial crime from Anti-Money Laundering and Counter-Terrorist Financing"
   },
   {
-    "id": 10,
+    "id": 20,
     "angular": 1,
     "company": "VASHI Diamonds e-commerce",
     "role": "UI Software Engineer",
@@ -31,7 +31,7 @@
     "description": "Implemented Atomic Design and in a Mobile-First SaaS solution enhancing maintainability, scalability, and user experience; developed API endpoints for efficient data retrieval; and optimised Reactive Components to boost system performance and increase the KYC rate."
   },
   {
-    "id": 20,
+    "id": 30,
     "angular": 1,
     "react": 1,
     "company": "New Look Fashion Retailer e-commerce",
@@ -42,7 +42,7 @@
     "description": "Worked on a applications for different projects, at the same time with Hybris eCommerce SaaS solutions using AWS (ECS) platform to provide immutable docker containers on virtual cluster services creating several containerized environments"
   },
   {
-    "id": 30,
+    "id": 40,
     "angular": 1,
     "react": 1,
     "company": "Accuity Financial Services",
@@ -53,7 +53,7 @@
     "description": "Development of a predictive solution that provides the Bank Almanac WebApp Reactive Programming to build a composable data stream."
   },
   {
-    "id": 40,
+    "id": 50,
     "angular": 1,
     "company": "Mimecast Cloud Cybersecurity",
     "role": "UI Software Engineer",
@@ -63,7 +63,7 @@
     "description": "I produced a robust combination of reusable Components that combine into a Client UI super reactive category SPA Web Application. These individual apps provide a cyber resilience for an email offering cloud security, archiving and continuity services. My task was to take care of the migration and development of new components used by the rest of the developers, automate tasks and create the structure that other developers will follow as well as assisting and mentoring the team."
   },
   {
-    "id": 50,
+    "id": 60,
     "angular": 1,
     "company": "Metropolitan Police",
     "role": "UI Software Engineer",
@@ -73,7 +73,7 @@
     "description": "During my time at the MET I produced a responsive component-oriented SPA PWA Web App, this solution generates the UI and performs a communication channel between Police Command Centre and Patrol Units. Working with PouchDB handle by the tablets in sync with the command centre MongoDB database. Mentoring and providing guidance and mentoring the team."
   },
   {
-    "id": 60,
+    "id": 70,
     "company": "Thomas Cook",
     "role": "Front-end Developer",
     "date": "04/2014 - 08/2014",
@@ -81,7 +81,7 @@
     "description": "Working to produce elegant solutions and creating new campaigns. Collaborated with a cross-functional agile team from low fidelity paper sketchpad and ended up with a great composable website"
   },
   {
-    "id": 70,
+    "id": 80,
     "company": "WMS",
     "role": "Front-end Developer",
     "date": "07/2013 - 01/2014",
@@ -89,7 +89,7 @@
     "description": "Working to build a Responsive Web solution as a developer and Mobile Strategist role part of a multidisciplinary agile team developing multi-device web UX. Starting with the low fidelity paper sketchpad and ending up with a simple and great website. Using developer UX techniques to optimise accessibility for mobile and tablet"
   },
   {
-    "id": 80,
+    "id": 90,
     "company": "ClearPeople",
     "role": "Lead Front-end Developer",
     "date": "02/2013 - 06/2013",
@@ -98,7 +98,7 @@
     "description": "Successfully created a Responsive Web. Working day to day in a responsive and cross-platform problems. Liaising with the designers and mentoring about the latest trends, multi-device layouts, RWD, content-first strategy priorities"
   },
   {
-    "id": 90,
+    "id": 100,
     "company": "NowTV",
     "role": "Front-end Developer",
     "date": "02/2012 - 08/2012",
@@ -107,7 +107,7 @@
     "description": "Successfully produced a Responsive Web developer solution working on an eXtreme programming set of values, principles, and practices for rapidly developing high-quality software that provides the highest value in the fastest possible way."
   },
   {
-    "id": 100,
+    "id": 110,
     "company": "BBC",
     "role": "Front-end Developer",
     "date": "01/2011 - 01/2012",
@@ -116,7 +116,7 @@
     "description": "We successfully developed a Responsive Web Application, to generate the new Responsive website. Getting involved in real user testing and guerrilla usability testing and development process improving Mobile usability, UX and device optimisation."
   },
   {
-    "id": 110,
+    "id": 120,
     "company": "Rumbo",
     "role": "Lead Front-end Developer",
     "date": "02/2010 - 08/2010",
@@ -125,7 +125,7 @@
     "description": "I produced a new GUI and interactive search, improving the usability for commercial purposes."
   },
   {
-    "id": 120,
+    "id": 130,
     "company": "Nokia OVI maps",
     "role": "Front-end Developer",
     "date": "07/2009 - 01/2010",
@@ -134,7 +134,7 @@
     "description": "Similar to google maps, I worked in the Nokia development of the multiplatform map web solution."
   },
   {
-    "id": 130,
+    "id": 140,
     "company": "Flirtomatic",
     "role": "Front-end Developer",
     "date": "08/2008 - 03/2009",
@@ -143,7 +143,7 @@
     "description": "Successfully produced a Mobile/Desktop Web developer role implementing GUI/UX for Mobile/Desktop for low/high-end devices."
   },
   {
-    "id": 140,
+    "id": 150,
     "company": "Interactive Data",
     "role": "Web Developer",
     "date": "11/2006 - 04/2008",
