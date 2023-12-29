@@ -2,7 +2,6 @@
    {
     "id": 6,
     "angular": 1,
-    "react": 1,
     "company": "The Workshop Games",
     "role": "UI Software Engineer",
     "date": " 06/2022 - 01/2024 ",
@@ -43,7 +42,6 @@
   {
     "id": 30,
     "angular": 1,
-    "react": 1,
     "company": "New Look Fashion Retailer e-commerce",
     "role": "UI Software Engineer",
     "date": " 01/2020 - 08/2020 ",
@@ -54,7 +52,6 @@
   {
     "id": 40,
     "angular": 1,
-    "react": 1,
     "company": "Accuity Financial Services",
     "role": "UI Software Engineer",
     "date": " 06/2019 - 12/2019",
