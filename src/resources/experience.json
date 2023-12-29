@@ -1,12 +1,22 @@
 [
    {
-    "id": 5,
+    "id": 6,
     "angular": 1,
     "react": 1,
+    "company": "The Workshop Games",
+    "role": "UI Software Engineer",
+    "date": " 06/2022 - 01/2024 ",
+    "country": "UK (Hybrid)",
+    "info": "https://theworkshop.com/",
+    "description": "Successfully optimised their B2B SaaS offering, migrating to modern Angular 16+, SSR Angular Universal, NodeJS, and Nx to streamline operations, enhance user experience, and improve overall performance. Restructured and migrated a large monolithic codebase into smaller, self-contained modules, enhancing adaptability and resilience."
+  },
+   {
+    "id": 8,
+    "angular": 1,
     "company": "ADS Financial Services",
     "role": "UI Software Engineer",
-    "date": " 11/2022 - 5/2023 ",
-    "country": "UK (Remote)",
+    "date": " 11/2022 - 05/2023 ",
+    "country": "UK (Hybrid)",
     "info": "https://www.adss.com/",
     "description": "Produced key upgrades to the Middle East and North Africas foreign exchange trading platform, led the migration for improved reliability, enhanced a Front-Office trading platform to boost trading efficiency in CFD, Forex, and cryptocurrency markets, and efficiently managed development teams for swift project delivery and enhanced team efficiency."
   },
@@ -26,7 +36,7 @@
     "company": "VASHI Diamonds e-commerce",
     "role": "UI Software Engineer",
     "date": " 09/2020 - 09/2021 ",
-    "country": "UK (Remote)",
+    "country": "UK (Hybrid)",
     "info": "https://www.vashi.com/",
     "description": "Implemented Atomic Design and in a Mobile-First SaaS solution enhancing maintainability, scalability, and user experience; developed API endpoints for efficient data retrieval; and optimised Reactive Components to boost system performance and increase the KYC rate."
   },
