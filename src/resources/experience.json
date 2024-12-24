@@ -134,41 +134,5 @@
     "country": "UK",
     "info": "https://www.bbc.com",
     "description": "We successfully developed a Responsive Web Application, to generate the new Responsive website. Getting involved in real user testing and guerrilla usability testing and development process improving Mobile usability, UX and device optimisation."
-  },
-  {
-    "id": 120,
-    "company": "Rumbo",
-    "role": "Lead Front-end Developer",
-    "date": "02/2010 - 08/2010",
-    "country": "Spain",
-    "info": "https://www.rumbo.es/",
-    "description": "I produced a new GUI and interactive search, improving the usability for commercial purposes."
-  },
-  {
-    "id": 130,
-    "company": "Nokia OVI maps",
-    "role": "Front-end Developer",
-    "date": "07/2009 - 01/2010",
-    "country": "Germany",
-    "info": "https://www.here.com/",
-    "description": "Similar to google maps, I worked in the Nokia development of the multiplatform map web solution."
-  },
-  {
-    "id": 140,
-    "company": "Flirtomatic",
-    "role": "Front-end Developer",
-    "date": "08/2008 - 03/2009",
-    "country": "UK",
-    "info": "https://www.flirtomatic.co.uk/",
-    "description": "Successfully produced a Mobile/Desktop Web developer role implementing GUI/UX for Mobile/Desktop for low/high-end devices."
-  },
- // {
- //   "id": 150,
- //   "company": "Interactive Data",
- //   "role": "Web Developer",
- //   "date": "11/2006 - 04/2008",
- //   "country": "Spain",
- //   "info": "https://www.theice.com/market-data",
- //   "description": "Created a desktop and hybrid iOS Web APP and websites using real-time push data for several clients."
- // }
+  }
 ]
