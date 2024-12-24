@@ -162,13 +162,13 @@
     "info": "https://www.flirtomatic.co.uk/",
     "description": "Successfully produced a Mobile/Desktop Web developer role implementing GUI/UX for Mobile/Desktop for low/high-end devices."
   },
-  {
-    "id": 150,
-    "company": "Interactive Data",
-    "role": "Web Developer",
-    "date": "11/2006 - 04/2008",
-    "country": "Spain",
-    "info": "https://www.theice.com/market-data",
-    "description": "Created a desktop and hybrid iOS Web APP and websites using real-time push data for several clients."
-  }
+ // {
+ //   "id": 150,
+ //   "company": "Interactive Data",
+ //   "role": "Web Developer",
+ //   "date": "11/2006 - 04/2008",
+ //   "country": "Spain",
+ //   "info": "https://www.theice.com/market-data",
+ //   "description": "Created a desktop and hybrid iOS Web APP and websites using real-time push data for several clients."
+ // }
 ]
