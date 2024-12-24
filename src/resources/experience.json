@@ -91,6 +91,7 @@
   },
   {
     "id": 70,
+    "angular": 1,
     "company": "Thomas Cook",
     "role": "Senior Lead Angular Frontend",
     "date": "04/2014 - 08/2014",
@@ -99,6 +100,7 @@
   },
   {
     "id": 80,
+    "angular": 1,     
     "company": "WMS",
     "role": "Senior Lead Angular Frontend",
     "date": "07/2013 - 01/2014",
@@ -107,6 +109,7 @@
   },
   {
     "id": 90,
+    "angular": 1,     
     "company": "ClearPeople",
     "role": "Lead Angular Front-end Developer",
     "date": "02/2013 - 06/2013",
