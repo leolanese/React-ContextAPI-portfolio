@@ -1,14 +1,5 @@
 [
-   {
-    "id": 4,
-    "angular": 1,
-    "company": "Sea Mar Accountant Management",
-    "role": "Senior Full-Stack Developer - Engineering Manager",
-    "date": "02/2024 - Present",
-    "country": "UK (Remote)",
-    "info": "",
-    "description": "Successfully optimised clients B2B SaaS solutions using modern Angular 19+, NestJS and improve overall performance."
-  },
+
    {
     "id": 6,
     "angular": 1,
