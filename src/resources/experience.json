@@ -4,7 +4,7 @@
     "angular": 1,
     "company": "Sea Mar Accountant Management",
     "role": "Senior Full-Stack Developer / Engineering Manager",
-    "date": " 02/2024 - Present ",
+    "date": "02/2024 - Present",
     "country": "UK (Remote)",
     "info": "",
     "description": "Successfully optimised clients B2B SaaS solutions using modern Angular 19+, NestJS and improve overall performance."
@@ -14,7 +14,7 @@
     "angular": 1,
     "company": "The Workshop Games",
     "role": "Senior Angular Frontend Developer / Full-Stack",
-    "date": " 06/2022 - 01/2024 ",
+    "date": "06/2022 - 01/2024",
     "country": "UK (Hybrid)",
     "info": "https://theworkshop.com/",
     "description": "Successfully optimised their B2B SaaS offering, migrating to modern Angular 16+, SSR Angular Universal, NodeJS, and Nx to streamline operations, enhance user experience, and improve overall performance. Restructured and migrated a large monolithic codebase into smaller, self-contained modules, enhancing adaptability and resilience."
@@ -24,7 +24,7 @@
     "angular": 1,
     "company": "ADS Financial Services",
     "role": "Senior Angular Frontend Developer / Full-Stack",
-    "date": " 11/2022 - 05/2023 ",
+    "date": "11/2022 - 05/2023",
     "country": "UK (Hybrid)",
     "info": "https://www.adss.com/",
     "description": "Produced key upgrades to the Middle East and North Africas foreign exchange trading platform, led the migration for improved reliability, enhanced a Front-Office trading platform to boost trading efficiency in CFD, Forex, and cryptocurrency markets, and efficiently managed development teams for swift project delivery and enhanced team efficiency."
@@ -34,7 +34,7 @@
     "angular": 1,
     "company": "Luno Financial Services",
     "role": "Senior Angular Frontend Developer",
-    "date": " 09/2021 - 10/2022 ",
+    "date": "09/2021 - 10/2022",
     "country": "UK (Remote)",
     "info": "https://www.luno.com/",
     "description": "Produced a Micro-Frontends financial cryptowallet solution to make it simple to trade cryptocurrency, following a set of policies, procedures, and technologies to prevent financial crime from Anti-Money Laundering and Counter-Terrorist Financing"
@@ -44,7 +44,7 @@
     "angular": 1,
     "company": "VASHI Diamonds e-commerce",
     "role": "Senior Angular Frontend Developer",
-    "date": " 09/2020 - 09/2021 ",
+    "date": "09/2020 - 09/2021",
     "country": "UK (Hybrid)",
     "info": "https://www.vashi.com/",
     "description": "Implemented Atomic Design and in a Mobile-First SaaS solution enhancing maintainability, scalability, and user experience; developed API endpoints for efficient data retrieval; and optimised Reactive Components to boost system performance and increase the KYC rate."
@@ -54,85 +54,7 @@
     "angular": 1,
     "company": "New Look Fashion Retailer e-commerce",
     "role": "Senior Angular Frontend Developer",
-    "date": " 01/2020 - 08/2020 ",
+    "date": "01/2020 - 08/2020",
     "country": "UK (Hybrid)",
     "info": "https://www.wundermanthompson.com/",
-    "description": "Worked on a applications for different projects, at the same time with Hybris eCommerce SaaS solutions using AWS (ECS) platform to provide immutable docker containers on virtual cluster services creating several containerized environments"
-  },
-  {
-    "id": 40,
-    "angular": 1,
-    "company": "Accuity Finance",
-    "role": "Senior Lead Angular Frontend Developer",
-    "date": " 06/2019 - 12/2019",
-    "country": "UK (Hybrid)",
-    "info": "https://accuity.com/brand-homepage/bankers-almanac-for-risk-and-compliance/",
-    "description": "Development of a predictive solution that provides the Bank Almanac WebApp Reactive Programming to build a composable data stream."
-  },
-  {
-    "id": 50,
-    "angular": 1,
-    "company": "Mimecast Cloud Cybersecurity",
-    "role": "Senior Software Engineer Manager",
-    "date": "04/2017 - 05/2019",
-    "country": "UK (Hybrid)",
-    "info": "https://community.mimecast.com/s/article/The-Administration-Console-User-Interface-1818047779",
-    "description": "I produced a robust combination of reusable Components that combine into a Client UI super reactive category SPA Web Application. These individual apps provide a cyber resilience for an email offering cloud security, archiving and continuity services. My task was to take care of the migration and development of new components used by the rest of the developers, automate tasks and create the structure that other developers will follow as well as assisting and mentoring the team."
-  },
-  {
-    "id": 60,
-    "angular": 1,
-    "company": "Metropolitan Police",
-    "role": "Senior Lead Angular Frontend",
-    "date": "09/2014 - 03/2017",
-    "country": "UK",
-    "info": "https://www.london.gov.uk/sites/default/files/q4_business_plan_progress_report_final.pdf",
-    "description": "During my time at the MET I produced a responsive component-oriented SPA PWA Web App, this solution generates the UI and performs a communication channel between Police Command Centre and Patrol Units. Working with PouchDB handle by the tablets in sync with the command centre MongoDB database. Mentoring and providing guidance and mentoring the team."
-  },
-  {
-    "id": 70,
-    "angular": 1,
-    "company": "Thomas Cook",
-    "role": "Senior Lead Angular Frontend",
-    "date": "04/2014 - 08/2014",
-    "country": "UK (Hybrid)",
-    "description": "Working to produce elegant solutions and creating new campaigns. Collaborated with a cross-functional agile team from low fidelity paper sketchpad and ended up with a great composable website"
-  },
-  {
-    "id": 80,
-    "angular": 1,     
-    "company": "WMS",
-    "role": "Senior Lead Angular Frontend",
-    "date": "07/2013 - 01/2014",
-    "country": "UK",
-    "description": "Working to build a Responsive Web solution as a developer and Mobile Strategist role part of a multidisciplinary agile team developing multi-device web UX. Starting with the low fidelity paper sketchpad and ending up with a simple and great website. Using developer UX techniques to optimise accessibility for mobile and tablet"
-  },
-  {
-    "id": 90,
-    "angular": 1,     
-    "company": "ClearPeople",
-    "role": "Lead Angular Front-end Developer",
-    "date": "02/2013 - 06/2013",
-    "country": "UK",
-    "info": "https://www.cms-lawnow.com/regzone",
-    "description": "Successfully created a Responsive Web. Working day to day in a responsive and cross-platform problems. Liaising with the designers and mentoring about the latest trends, multi-device layouts, RWD, content-first strategy priorities"
-  },
-  {
-    "id": 100,
-    "company": "Sky",
-    "role": "Senior Frontend Software Engineer",
-    "date": "02/2012 - 08/2012",
-    "country": "UK",
-    "info": "https://www.nowtv.com",
-    "description": "Successfully produced a Responsive Web developer solution working on an eXtreme programming set of values, principles, and practices for rapidly developing high-quality software that provides the highest value in the fastest possible way."
-  },
-  {
-    "id": 110,
-    "company": "BBC",
-    "role": "Senior Frontend Software Engineer",
-    "date": "01/2011 - 01/2012",
-    "country": "UK",
-    "info": "https://www.bbc.com",
-    "description": "We successfully developed a Responsive Web Application, to generate the new Responsive website. Getting involved in real user testing and guerrilla usability testing and development process improving Mobile usability, UX and device optimisation."
-  }
-]
+    "description"
