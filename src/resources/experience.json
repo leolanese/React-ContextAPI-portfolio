@@ -9,7 +9,8 @@
     "country": "UK (Hybrid)",
     "info": "https://theworkshop.com/",
     "description": "Successfully optimised their B2B SaaS offering, migrating to modern Angular 16+, SSR Angular Universal, NodeJS, and Nx to streamline operations, enhance user experience, and improve overall performance. Restructured and migrated a large monolithic codebase into smaller, self-contained modules, enhancing adaptability and resilience."
-  }{
+  },
+   {
     "id": 8,
     "angular": 1,
     "company": "ADS Financial Services",
