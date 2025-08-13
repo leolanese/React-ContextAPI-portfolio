@@ -1,102 +1,102 @@
 [
   {
     "id": 1,
-    "techs": ["angular", "aws", "analytics", "agile"],
+    "techs": ["angular", "aws", "analytics", "UX", "agile"],
     "company": "PayLink (Nationwide Banking)",
     "role": "Senior Front-End Developer (FTC contract)",
     "date": "05/2025 - Present",
-    "country": "UK",
+    "country": "UK (Hybrid)",
     "info": "",
-    "description": "Implemented runtime user-specific configuration for a multi-tenant Angular 20+ app by fetching init.json files from AWS S3, enabling tailored user experiences without redeployment. Migrated B2B SaaS financial form to modern signal-based architecture with shared state management, improving scalability and maintainability. Integrated custom dataLayer implementations for enhanced GA4/GTM tracking."
+    "description": "Developing and enhancing Angular applications with a focus on scalability, maintainability, and personalised user experiences. Integrating advanced analytics capabilities to improve data tracking and reporting for business decision-making."
   },
   {
     "id": 2,
-    "techs": ["angular", "nestjs", "typescript", "agile"],
+    "techs": ["angular", "nestjs", "typescript", "analytics", "UX", "agile"],
     "company": "Topple",
     "role": "Senior Front-End Developer / Full-Stack (Freelance contract)",
     "date": "11/2024 - 04/2025",
-    "country": "UK",
+    "country": "UK (Remote)",
     "info": "",
-    "description": "Developed modern media B2C SaaS Angular (17-19+) with TypeScript, reducing code complexity by 40% and doubling UI update speed. Designed cache invalidation rules and TTL policies, reducing API latency and increasing conversion by 15%. Migrated Laravel backend to NestJS microservices with serverless Lambda, modular architecture, and caching, cutting API response times by 30%."
+    "description": "Designed and implemented modern, high-performance Angular applications. Improved UI responsiveness and reduced system complexity. Delivered data-driven features and analytics solutions to support user engagement and growth."
   },
   {
     "id": 3,
-    "techs": ["angular", "ssr", "analytics", "agile"],
+    "techs": ["angular", "ssr", "UX", "agile"],
     "company": "The WorkShop Technologies",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
     "date": "07/2023 - 01/2024",
     "country": "UK (Hybrid)",
     "info": "https://theworkshop.com/",
-    "description": "Re-engineered legacy system during migration to B2B SaaS SPA. Improved SEO by adding SSR and optimising landing pages. Used Matomo analytics to identify high-exit points and improve Time to Interact (TTI), reducing uncanny valley effects and increasing conversion rate by 15%."
+    "description": "Modernised front-end architecture for SaaS platforms, introducing SEO-friendly rendering techniques and optimised performance. Implemented analytics enhancements to improve conversion rates and user experience."
   },
   {
     "id": 4,
-    "techs": ["angular", "sentry", "lighthouse", "agile"],
+    "techs": ["angular", "sentry", "lighthouse", "analytics", "UX", "agile"],
     "company": "Abu Dhabi Securities Financial",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
     "date": "11/2022 - 06/2023",
     "country": "UK (Hybrid)",
     "info": "https://www.adss.com/",
-    "description": "Delivered B2C SaaS Angular (15-17+) KYC workflow with advanced identity verification, increasing completion rates by 35%. Redesigned flow to include partial KYC, reducing cognitive load and increasing engagement. Implemented Sentry error logging and automated UX audits with Lighthouse."
+    "description": "Delivered high-quality Angular solutions with a focus on user onboarding and engagement. Introduced quality monitoring tools and analytics to improve performance, accessibility, and user journey completion rates."
   },
   {
     "id": 5,
-    "techs": ["angular", "aws", "cypress", "agile"],
+    "techs": ["angular", "aws", "cypress", "analytics", "UX", "agile"],
     "company": "Luno Financial Services",
     "role": "Senior Front-End Developer (contract)",
     "date": "09/2021 - 10/2022",
-    "country": "UK (Remote)",
+    "country": "UK (Hybrid)",
     "info": "https://www.luno.com/",
-    "description": "Redesigned responsive crypto wallet using Angular (14-15+) and NodeJS AWS Lambda, improving task completion rates by 50% with UX and accessibility enhancements. Implemented Cypress e2e automation and mutation tests. Integrated MFA and Stripe gateways for improved security."
+    "description": "Redesigned and optimised responsive Angular applications to improve usability and accessibility. Implemented automated testing, enhanced analytics tracking, and integrated secure payment and authentication features."
   },
   {
     "id": 6,
-    "techs": ["angular", "aws", "mobile-first", "agile"],
+    "techs": ["angular", "aws", "mobile-first", "analytics", "UX", "agile"],
     "company": "Vashi (Queensmith)",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
     "date": "09/2020 - 09/2021",
     "country": "UK (Hybrid)",
     "info": "https://www.vashi.com/",
-    "description": "Created B2C SaaS Angular (11-12+) with Mobile First approach, increasing conversion by 15%. Redesigned product customisation flow, increasing flow conversion by 25%. Leveraged AWS ECS for Dockerised testing environments."
+    "description": "Created mobile-first, user-friendly Angular solutions to improve customer journeys and conversion rates. Delivered customisation features and integrated analytics to provide insights into user behaviour."
   },
   {
     "id": 7,
-    "techs": ["angular", "ngrx", "aws", "agile"],
+    "techs": ["angular", "ngrx", "aws", "analytics", "UX", "agile"],
     "company": "New Look Fashion Retailer",
     "role": "Senior Front-End Developer (contract)",
     "date": "01/2020 - 08/2020",
     "country": "UK (Hybrid)",
     "info": "https://www.wundermanthompson.com/",
-    "description": "Built B2C SaaS Angular 11+ eCommerce app with @ngrx and microservices, improving UX and engagement. Consolidated app and dependencies into unified QA container with AWS CloudFormation."
+    "description": "Built scalable Angular applications with state management and modular architecture. Collaborated with teams to enhance analytics capabilities and optimise the online shopping experience."
   },
   {
     "id": 8,
-    "techs": ["angular", "ngrx", "typescript", "devsecops"],
+    "techs": ["angular", "ngrx", "typescript", "UX", "devops"],
     "company": "Accuity Financial Services (LexisNexis)",
     "role": "Senior Lead Front-End Developer (contract)",
     "date": "06/2019 - 12/2019",
     "country": "UK (Hybrid)",
     "info": "https://accuity.com/brand-homepage/bankers-almanac-for-risk-and-compliance/",
-    "description": "Led team of 7 on B2B SaaS @ngrx Angular 8+ project using SOLID and Modular Monolith pattern. Enhanced financial crime screening and compliance management. Embedded security into development lifecycle."
+    "description": "Led development of enterprise Angular applications with a focus on scalability and security. Integrated analytics solutions to improve data visibility and compliance monitoring."
   },
   {
     "id": 9,
-    "techs": ["angular", "micro-frontends", "pubsub", "agile"],
+    "techs": ["angular", "micro-frontends", "pubsub", "UX", "agile"],
     "company": "Mimecast Cloud Cybersecurity",
     "role": "Senior Lead Front-End Developer (permanent)",
     "date": "04/2017 - 05/2019",
     "country": "UK (Hybrid)",
     "info": "https://community.mimecast.com/s/article/The-Administration-Console-User-Interface-1818047779",
-    "description": "Executed performance improvement plan using Angular 8+ and TypeScript. Migrated monolith to micro-frontends with Pub/Sub event-driven architecture. Led team of 8 and implemented layered Angular architecture with @ngrx and Facade pattern."
+    "description": "Led teams in delivering performant Angular applications with micro-frontend architecture. Enhanced analytics integration and data flow to support product insights and user engagement strategies."
   },
   {
     "id": 10,
-    "techs": ["angularjs", "typescript", "couchdb", "agile"],
+    "techs": ["angularjs", "typescript", "couchdb", "UX", "agile"],
     "company": "Metropolitan Digital Police",
     "role": "Senior Lead Front-End Developer (contract)",
     "date": "10/2014 - 03/2017",
     "country": "UK",
     "info": "https://www.london.gov.uk/sites/default/files/q4_business_plan_progress_report_final.pdf",
-    "description": "Led team of 7 to develop real-time incident management system with offline capabilities using AngularJS, TypeScript, NW.js, and CouchDB. Reduced operational costs and improved emergency response time by 45%."
+    "description": "Directed front-end development for mission-critical AngularJS applications with offline capabilities. Designed analytics-enabled solutions to improve operational performance and decision-making."
   }
 ]
