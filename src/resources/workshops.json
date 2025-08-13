@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "type": "conference",
+    "title": "SpainJS",
+    "location": "Madrid, Spain",
+    "date": "2023",
+    "url": "https://leolanese.com/spainjs/",
+    "description": "Featured speaker at SpainJS conference, presenting on modern JavaScript development and Angular best practices.",
+    "techs": ["javascript", "angular", "modern-web"],
+    "category": "International Conference"
+  },
+  {
+    "id": 2,
+    "type": "conference",
+    "title": "ScotlandJS",
+    "location": "Edinburgh, Scotland",
+    "date": "2023",
+    "url": "https://leolanese.com/scotlandjs/",
+    "description": "Featured speaker at ScotlandJS conference, sharing insights on functional programming and modern JavaScript frameworks.",
+    "techs": ["javascript", "functional", "modern-web"],
+    "category": "International Conference"
+  },
+  {
+    "id": 3,
+    "type": "conference",
+    "title": "JSConf",
+    "location": "Buenos Aires, Argentina",
+    "date": "2023",
+    "url": "https://leolanese.com/jsconf/",
+    "description": "Featured speaker at JSConf Argentina, presenting on advanced JavaScript patterns and community-driven development.",
+    "techs": ["javascript", "community", "patterns"],
+    "category": "International Conference"
+  },
+  {
+    "id": 4,
+    "type": "workshop",
+    "title": "The road to ECMAScript 6: New solutions for old JS problems",
+    "location": "Online",
+    "date": "2023",
+    "url": "https://github.com/leolanese/ES6_workshop",
+    "description": "Comprehensive workshop covering ES6 features and how they solve common JavaScript problems. Hands-on exercises and real-world examples.",
+    "techs": ["ecmascript", "javascript", "es6"],
+    "category": "JavaScript Workshop"
+  },
+  {
+    "id": 5,
+    "type": "workshop",
+    "title": "Functional (Programming) mindset",
+    "location": "Online",
+    "date": "2023",
+    "url": "https://tech.io/playgrounds/3b2a2b01292b2db6477eddc33a4d2dbb20042/functional-programming-mindset/welcome-",
+    "description": "Interactive workshop teaching functional programming concepts and mindset transformation for JavaScript developers.",
+    "techs": ["functional", "javascript", "programming-paradigms"],
+    "category": "Functional Programming"
+  },
+  {
+    "id": 6,
+    "type": "workshop",
+    "title": "Becoming Functional (Programming)",
+    "location": "Online",
+    "date": "2023",
+    "url": "https://leolanese.github.io/Becoming-Functional/",
+    "description": "Step-by-step guide to adopting functional programming principles in JavaScript development.",
+    "techs": ["functional", "javascript", "best-practices"],
+    "category": "Functional Programming"
+  },
+  {
+    "id": 7,
+    "type": "workshop",
+    "title": "Practical Functional Programming",
+    "location": "Online",
+    "date": "2023",
+    "url": "https://github.com/leolanese/practical_functional_programming",
+    "description": "Hands-on workshop focusing on practical applications of functional programming in real-world projects.",
+    "techs": ["functional", "javascript", "practical"],
+    "category": "Functional Programming"
+  },
+  {
+    "id": 8,
+    "type": "workshop",
+    "title": "The new RWD multi-screen world",
+    "location": "Online",
+    "date": "2023",
+    "url": "http://leolanese.com/the-new-multi-screen-world/",
+    "description": "Workshop on responsive web design strategies for the modern multi-screen landscape.",
+    "techs": ["rwd", "responsive", "css", "mobile-first"],
+    "category": "Responsive Design"
+  },
+  {
+    "id": 9,
+    "type": "workshop",
+    "title": "Building a Responsive Future-friendly Web",
+    "location": "Online",
+    "date": "2023",
+    "url": "http://leolanese.com/workshop/",
+    "description": "Comprehensive workshop on building responsive, future-proof web applications with modern techniques.",
+    "techs": ["responsive", "future-friendly", "web-development"],
+    "category": "Responsive Design"
+  },
+  {
+    "id": 10,
+    "type": "collaboration",
+    "title": "Supporter OpenJS Foundation Individual Participant",
+    "location": "The Linux Foundation",
+    "date": "2023",
+    "url": "https://openprofile.dev/profile/leolanese",
+    "description": "Active supporter and individual participant in the OpenJS Foundation, contributing to the JavaScript ecosystem.",
+    "techs": ["openjs", "javascript", "community"],
+    "category": "Community Contribution"
+  },
+  {
+    "id": 11,
+    "type": "collaboration",
+    "title": "JS Invited Expert - React Advanced",
+    "location": "London, UK",
+    "date": "2023",
+    "url": "https://reactadvanced.com/",
+    "description": "Invited expert at React Advanced conference, sharing expertise on React development and JavaScript ecosystem.",
+    "techs": ["react", "javascript", "conference"],
+    "category": "Conference Collaboration"
+  },
+  {
+    "id": 12,
+    "type": "collaboration",
+    "title": "Technical Reviewer - Deploying Angular",
+    "location": "Packt Publishing, London, UK",
+    "date": "2023",
+    "url": "https://www.packtpub.com/product/deploying-angularjs-video/9781783554478",
+    "description": "Technical reviewer for Packt Publishing's 'Deploying Angular' publication, ensuring technical accuracy and best practices.",
+    "techs": ["angular", "technical-writing", "publishing"],
+    "category": "Technical Review"
+  }
+]
