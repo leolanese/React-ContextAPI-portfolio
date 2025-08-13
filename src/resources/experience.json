@@ -1,7 +1,7 @@
-[ 
+[
   {
     "id": 1,
-    "angular": 1,
+    "techs": ["angular", "aws", "analytics", "agile"],
     "company": "PayLink (Nationwide Banking)",
     "role": "Senior Front-End Developer (FTC contract)",
     "date": "05/2025 - Present",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "angular": 1,
+    "techs": ["angular", "nestjs", "typescript", "agile"],
     "company": "Topple",
     "role": "Senior Front-End Developer / Full-Stack (Freelance contract)",
     "date": "11/2024 - 04/2025",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "angular": 1,
+    "techs": ["angular", "ssr", "analytics", "agile"],
     "company": "The WorkShop Technologies",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
     "date": "07/2023 - 01/2024",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "angular": 1,
+    "techs": ["angular", "sentry", "lighthouse", "agile"],
     "company": "Abu Dhabi Securities Financial",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
     "date": "11/2022 - 06/2023",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "angular": 1,
+    "techs": ["angular", "aws", "cypress", "agile"],
     "company": "Luno Financial Services",
     "role": "Senior Front-End Developer (contract)",
     "date": "09/2021 - 10/2022",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "angular": 1,
+    "techs": ["angular", "aws", "mobile-first", "agile"],
     "company": "Vashi (Queensmith)",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
     "date": "09/2020 - 09/2021",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "angular": 1,
+    "techs": ["angular", "ngrx", "aws", "agile"],
     "company": "New Look Fashion Retailer",
     "role": "Senior Front-End Developer (contract)",
     "date": "01/2020 - 08/2020",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "angular": 1,
+    "techs": ["angular", "ngrx", "typescript", "devsecops"],
     "company": "Accuity Financial Services (LexisNexis)",
     "role": "Senior Lead Front-End Developer (contract)",
     "date": "06/2019 - 12/2019",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "angular": 1,
+    "techs": ["angular", "micro-frontends", "pubsub", "agile"],
     "company": "Mimecast Cloud Cybersecurity",
     "role": "Senior Lead Front-End Developer (permanent)",
     "date": "04/2017 - 05/2019",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "angular": 1,
+    "techs": ["angularjs", "typescript", "couchdb", "agile"],
     "company": "Metropolitan Digital Police",
     "role": "Senior Lead Front-End Developer (contract)",
     "date": "10/2014 - 03/2017",
