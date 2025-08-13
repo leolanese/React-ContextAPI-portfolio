@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "techs": ["angular", "aws", "analytics", "UX", "agile"],
+    "techs": ["angular", "aws", "analytics", "agile"],
     "company": "PayLink (Nationwide Banking)",
     "role": "Senior Front-End Developer (FTC contract)",
     "date": "05/2025 - Present",
-    "country": "UK (Hybrid)",
+    "country": "UK",
     "info": "",
     "description": "Developing and enhancing Angular applications with a focus on scalability, maintainability, and personalised user experiences. Integrating advanced analytics capabilities to improve data tracking and reporting for business decision-making."
   },
   {
     "id": 2,
-    "techs": ["angular", "nestjs", "typescript", "analytics", "UX", "agile"],
+    "techs": ["angular", "nestjs", "typescript", "agile"],
     "company": "Topple",
     "role": "Senior Front-End Developer / Full-Stack (Freelance contract)",
     "date": "11/2024 - 04/2025",
-    "country": "UK (Remote)",
+    "country": "UK",
     "info": "",
     "description": "Designed and implemented modern, high-performance Angular applications. Improved UI responsiveness and reduced system complexity. Delivered data-driven features and analytics solutions to support user engagement and growth."
   },
   {
     "id": 3,
-    "techs": ["angular", "ssr", "UX", "agile"],
+    "techs": ["angular", "ssr", "analytics", "agile"],
     "company": "The WorkShop Technologies",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
     "date": "07/2023 - 01/2024",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "techs": ["angular", "sentry", "lighthouse", "analytics", "UX", "agile"],
+    "techs": ["angular", "sentry", "lighthouse", "agile"],
     "company": "Abu Dhabi Securities Financial",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
     "date": "11/2022 - 06/2023",
@@ -41,17 +41,17 @@
   },
   {
     "id": 5,
-    "techs": ["angular", "aws", "cypress", "analytics", "UX", "agile"],
+    "techs": ["angular", "aws", "cypress", "agile"],
     "company": "Luno Financial Services",
     "role": "Senior Front-End Developer (contract)",
     "date": "09/2021 - 10/2022",
-    "country": "UK (Hybrid)",
+    "country": "UK (Remote)",
     "info": "https://www.luno.com/",
     "description": "Redesigned and optimised responsive Angular applications to improve usability and accessibility. Implemented automated testing, enhanced analytics tracking, and integrated secure payment and authentication features."
   },
   {
     "id": 6,
-    "techs": ["angular", "aws", "mobile-first", "analytics", "UX", "agile"],
+    "techs": ["angular", "aws", "mobile-first", "agile"],
     "company": "Vashi (Queensmith)",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
     "date": "09/2020 - 09/2021",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "techs": ["angular", "ngrx", "aws", "analytics", "UX", "agile"],
+    "techs": ["angular", "ngrx", "aws", "agile"],
     "company": "New Look Fashion Retailer",
     "role": "Senior Front-End Developer (contract)",
     "date": "01/2020 - 08/2020",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "techs": ["angular", "ngrx", "typescript", "UX", "devops"],
+    "techs": ["angular", "ngrx", "typescript", "devsecops"],
     "company": "Accuity Financial Services (LexisNexis)",
     "role": "Senior Lead Front-End Developer (contract)",
     "date": "06/2019 - 12/2019",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "techs": ["angular", "micro-frontends", "pubsub", "UX", "agile"],
+    "techs": ["angular", "micro-frontends", "pubsub", "agile"],
     "company": "Mimecast Cloud Cybersecurity",
     "role": "Senior Lead Front-End Developer (permanent)",
     "date": "04/2017 - 05/2019",
@@ -91,12 +91,32 @@
   },
   {
     "id": 10,
-    "techs": ["angularjs", "typescript", "couchdb", "UX", "agile"],
+    "techs": ["angularjs", "typescript", "couchdb", "agile"],
     "company": "Metropolitan Digital Police",
     "role": "Senior Lead Front-End Developer (contract)",
     "date": "10/2014 - 03/2017",
     "country": "UK",
     "info": "https://www.london.gov.uk/sites/default/files/q4_business_plan_progress_report_final.pdf",
     "description": "Directed front-end development for mission-critical AngularJS applications with offline capabilities. Designed analytics-enabled solutions to improve operational performance and decision-making."
+  },
+  {
+    "id": 11,
+    "techs": ["javascript", "html5", "css3", "agile"],
+    "company": "Sky",
+    "role": "Core Developer & Founding Member – NowTV",
+    "date": "2012 - 2013",
+    "country": "UK (London)",
+    "info": "https://www.nowtv.com/",
+    "description": "Part of the founding development team for NowTV, contributing to the initial architecture, core front-end build, and product launch. Delivered scalable and user-focused interfaces, ensuring performance and accessibility standards were met from day one. Worked closely with cross-functional teams to integrate analytics and tracking into the platform for ongoing product insights."
+  },
+  {
+    "id": 12,
+    "techs": ["javascript", "html5", "css3", "agile"],
+    "company": "BBC",
+    "role": "Core Developer & Founding Member – BBC Homepage",
+    "date": "2011 - 2012",
+    "country": "UK (London)",
+    "info": "https://www.bbc.co.uk/",
+    "description": "Key contributor to the launch of the new BBC Homepage, involved in designing and implementing the front-end architecture and ensuring compatibility across a wide range of devices and browsers. Introduced performance optimisations, accessibility improvements, and analytics capabilities to support editorial and audience engagement strategies."
   }
 ]
