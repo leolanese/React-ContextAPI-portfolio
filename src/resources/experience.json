@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 5,
     "techs": ["angular", "aws", "analytics", "agile"],
     "company": "PayLink (Nationwide Banking)",
     "role": "Senior Front-End Developer (FTC contract)",
@@ -10,7 +10,7 @@
     "description": "Developing and enhancing Angular applications with a focus on scalability, maintainability, and personalised user experiences. Integrating advanced analytics capabilities to improve data tracking and reporting for business decision-making."
   },
   {
-    "id": 2,
+    "id": 10,
     "techs": ["angular", "nestjs", "typescript", "agile"],
     "company": "Topple",
     "role": "Senior Front-End Developer / Full-Stack (Freelance contract)",
@@ -20,7 +20,7 @@
     "description": "Designed and implemented modern, high-performance Angular applications. Improved UI responsiveness and reduced system complexity. Delivered data-driven features and analytics solutions to support user engagement and growth."
   },
   {
-    "id": 3,
+    "id": 15,
     "techs": ["angular", "ssr", "analytics", "agile"],
     "company": "The WorkShop Technologies",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
@@ -30,7 +30,7 @@
     "description": "Modernised front-end architecture for SaaS platforms, introducing SEO-friendly rendering techniques and optimised performance. Implemented analytics enhancements to improve conversion rates and user experience."
   },
   {
-    "id": 4,
+    "id": 20,
     "techs": ["angular", "sentry", "lighthouse", "agile"],
     "company": "Abu Dhabi Securities Financial",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
@@ -40,7 +40,7 @@
     "description": "Delivered high-quality Angular solutions with a focus on user onboarding and engagement. Introduced quality monitoring tools and analytics to improve performance, accessibility, and user journey completion rates."
   },
   {
-    "id": 5,
+    "id": 25,
     "techs": ["angular", "aws", "cypress", "agile"],
     "company": "Luno Financial Services",
     "role": "Senior Front-End Developer (contract)",
@@ -50,7 +50,7 @@
     "description": "Redesigned and optimised responsive Angular applications to improve usability and accessibility. Implemented automated testing, enhanced analytics tracking, and integrated secure payment and authentication features."
   },
   {
-    "id": 6,
+    "id": 30,
     "techs": ["angular", "aws", "mobile-first", "agile"],
     "company": "Vashi (Queensmith)",
     "role": "Senior Front-End Developer / Full-Stack (contract)",
@@ -60,7 +60,7 @@
     "description": "Created mobile-first, user-friendly Angular solutions to improve customer journeys and conversion rates. Delivered customisation features and integrated analytics to provide insights into user behaviour."
   },
   {
-    "id": 7,
+    "id": 35,
     "techs": ["angular", "ngrx", "aws", "agile"],
     "company": "New Look Fashion Retailer",
     "role": "Senior Front-End Developer (contract)",
@@ -70,7 +70,7 @@
     "description": "Built scalable Angular applications with state management and modular architecture. Collaborated with teams to enhance analytics capabilities and optimise the online shopping experience."
   },
   {
-    "id": 8,
+    "id": 40,
     "techs": ["angular", "ngrx", "typescript", "devsecops"],
     "company": "Accuity Financial Services (LexisNexis)",
     "role": "Senior Lead Front-End Developer (contract)",
@@ -80,7 +80,7 @@
     "description": "Led development of enterprise Angular applications with a focus on scalability and security. Integrated analytics solutions to improve data visibility and compliance monitoring."
   },
   {
-    "id": 9,
+    "id": 45,
     "techs": ["angular", "micro-frontends", "pubsub", "agile"],
     "company": "Mimecast Cloud Cybersecurity",
     "role": "Senior Lead Front-End Developer (permanent)",
@@ -90,7 +90,7 @@
     "description": "Led teams in delivering performant Angular applications with micro-frontend architecture. Enhanced analytics integration and data flow to support product insights and user engagement strategies."
   },
   {
-    "id": 10,
+    "id": 50,
     "techs": ["angularjs", "typescript", "couchdb", "agile"],
     "company": "Metropolitan Digital Police",
     "role": "Senior Lead Front-End Developer (contract)",
@@ -100,7 +100,7 @@
     "description": "Directed front-end development for mission-critical AngularJS applications with offline capabilities. Designed analytics-enabled solutions to improve operational performance and decision-making."
   },
   {
-    "id": 11,
+    "id": 55,
     "techs": ["javascript", "html5", "css3", "agile"],
     "company": "Sky",
     "role": "Core Developer & Founding Member – NowTV",
@@ -110,7 +110,7 @@
     "description": "Part of the founding development team for NowTV, contributing to the initial architecture, core front-end build, and product launch. Delivered scalable and user-focused interfaces, ensuring performance and accessibility standards were met from day one. Worked closely with cross-functional teams to integrate analytics and tracking into the platform for ongoing product insights."
   },
   {
-    "id": 12,
+    "id": 60,
     "techs": ["javascript", "html5", "css3", "agile"],
     "company": "BBC",
     "role": "Core Developer & Founding Member – BBC Homepage",
